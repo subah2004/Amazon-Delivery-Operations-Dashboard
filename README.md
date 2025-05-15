@@ -1,6 +1,7 @@
 # Amazon Delivery Operations
 
 This dataset is from Kaggle and it has 43,000 rows. This dataset only contains the delivery operations of 2022, including 3 months which are Feb, March and April. 
+Link - https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset
 
 ## Objective:
 The primary goal of this analysis is to evaluate delivery efficiency, assess agent performance, identify operational bottlenecks (geographical and time-based), and improve resource allocation and planning strategies.
